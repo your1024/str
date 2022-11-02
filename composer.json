@@ -1,0 +1,19 @@
+{
+    "name": "yhy/str",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yhy\\Str\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yhy",
+            "email": "karl-yang@foxmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
