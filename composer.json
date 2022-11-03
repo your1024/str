@@ -14,6 +14,16 @@
             "email": "karl-yang@foxmail.com"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Yhy\\Str\\Providers\\AppServiceProvider"
+            ],
+            "aliases": {
+                "MyStr": "Yhy\\Str\\Facades\\MyStr"
+            }
+        }
+    },
     "minimum-stability": "beta",
     "require": {}
 }
