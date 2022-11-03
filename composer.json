@@ -17,7 +17,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Yhy\\Str\\Providers\\AppServiceProvider"
+                "Yhy\\Str\\Providers\\MyStrServiceProvider"
             ],
             "aliases": {
                 "MyStr": "Yhy\\Str\\Facades\\MyStr"
